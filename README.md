@@ -1,4 +1,4 @@
-miner
+Miner
 =====
 
-miner
+Miner
